@@ -38,6 +38,7 @@ body {
 
 .fa-quote-left, .fa-quote-right {
     font-size: 3rem;
+    color:rgba(216, 190, 221, 0.719);
 }
 
 .quote-author {
