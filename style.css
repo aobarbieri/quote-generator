@@ -29,7 +29,11 @@ body {
 }
 
 .quote-text {
-    font-size: 2.75rem;
+    font-size: 1.5rem;
+}
+
+#quote {
+    display: inline;
 }
 
 .long-quote {
@@ -44,7 +48,7 @@ body {
 
 .quote-author {
     margin-top : 15px;
-    font-size  : 1.3rem;
+    font-size  : .8rem;
     font-weight: 400;
     font-style : italic;
 }
